@@ -9,7 +9,7 @@ Currently, it contains only the basic structure and layout — no backend or rea
 - 📑 Placeholder setup for **future notes**.
 
 
-**Project Structure**
+```**Project Structure**
 TUT/
 │── assets/images/         # Images for the project
 │── c/c.html               # Notes page for C
@@ -27,7 +27,7 @@ TUT/
 │── notupload.html         # Placeholder page
 │── server.js              # (Basic JS file, no backend logic)
 │── style.css              # Main stylesheet
-
+```
 
 **🛠️ Tech Stack**
 - HTML5 – Structure
